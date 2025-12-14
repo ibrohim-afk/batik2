@@ -1,2 +1,0 @@
-
-::: costumy.classes.Design

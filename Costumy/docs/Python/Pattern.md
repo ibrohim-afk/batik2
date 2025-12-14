@@ -1,3 +1,0 @@
-
-
-::: costumy.classes.Pattern

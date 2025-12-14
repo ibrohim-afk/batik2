@@ -1,1 +1,0 @@
-::: costumy.classes.Panel

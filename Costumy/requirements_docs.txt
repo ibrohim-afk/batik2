@@ -1,8 +1,0 @@
-# Required only to build and serve docs
-mkdocs
-mkdocs-autorefs
-mkdocs-material    
-mkdocs-callouts
-mkdocstrings       
-mkdocstrings-python
-pymdown-extensions 
