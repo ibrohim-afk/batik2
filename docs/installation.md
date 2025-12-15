@@ -169,3 +169,4 @@ To use the [SMPL](https://smpl.is.tue.mpg.de/) bodies:
 If you did it right, there should be a file located at `costumy/data/addons/smpl_blender_addon/__init__.py`
 
 ---
+
